@@ -15,17 +15,18 @@ I'm pursuing a Master of Science in Data Science at Indiana University, where I'
 - Data Visualization
 - Statistical Analysis
 - Git & GitHub
+- Data Storytelling
 
 ## 📊 Featured Projects
 
-### County Economic Dashboard
-Interactive Streamlit dashboard analyzing economic indicators across Southern Ohio and Northern Kentucky.
+### [County Economic Dashboard] (https://github.com/edsova3/couty-dashboard-streamlit)
+Interactive Streamlit dashboard for analyzing regional economic indicators to support data-driven decision-making across Southern Ohio and Northern Kentucky.
 
-### Energy Operations KPI Dashboard
-Interactive dashboard for monitoring maintenance KPIs, inspection results, equipment follow-up needs, and operational performance.
+### [Energy Operations KPI Dashboard] (https://github.com/edsova3/energy-operations-kpi-dashboard)
+Interactive KPI dashboard for tracking maintenance, performance,inspection results, equipment follow-up needs, and operational decision-making.
 
-### Energy Site Operations Database
-Relational SQL database for managing facilities, inspections, equipment, and maintenance records.
+### [Energy Site Operations Database] (https://github.com/edsova3/energy-site-operations-database)
+Relational SQL database designed to manage facilities, equipment, inspections, and maintenance records in energy operations environment.
 
 ## 🎯 Career Interests
 
