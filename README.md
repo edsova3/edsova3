@@ -19,8 +19,9 @@ I'm pursuing a Master of Science in Data Science at Indiana University, where I'
 
 ## 📊 Featured Projects
 
-### [County Economic Dashboard](https://github.com/edsova3/couty-dashboard-streamlit)
+### [County Economic Dashboard](https://github.com/edsova3/county-dashboard-streamlit/)
 Interactive Streamlit dashboard for analyzing regional economic indicators to support data-driven decision-making across Southern Ohio and Northern Kentucky.
+[View the live dashboard](https://edsova3-county-dashboard-streamlit-app-yzuknz.streamlit.app/)
 
 ### [Energy Operations KPI Dashboard](https://github.com/edsova3/energy-operations-kpi-dashboard)
 Interactive KPI dashboard for tracking maintenance performance,inspection results, equipment follow-up needs, and operational decision-making.
